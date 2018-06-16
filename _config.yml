@@ -1,0 +1,68 @@
+typography_spectrum: 0.09054011399175345
+color:
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  brandStrength: 0.5700587942581254
+  lightness: 0.17511751110241336
+  saturation: 0.04405689215951479
+  rhythmicContrast: 0.6992328937728842
+layout_spectrum: 0.7380146417298382
+analytics:
+  facebook: '200820943878064'
+  google: UA-111702110-2
+  twitter: ''
+author:
+  name: Elucidare Digital
+  url: 'http://elucidare.digital'
+  email: operations@elucidare.digital
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/683150b5-fdf8-41d9-b6e5-339634ade555.png
+name: NoGrey
+navigation:
+  - name: Consent Survey
+    id: 4cbc3056-911b-4e83-a694-0fbf55e7dd44
+    type: content
+  - name: 'Investors '
+    url: 'http://elucidare.digital/investment-opportunities'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/76f1b076-5c0f-4123-b00a-b347d366207f.ico
+title: NoGrey
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44fde0d8-3301-47f0-b77f-ea244031eb3a.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/44fde0d8-3301-47f0-b77f-ea244031eb3a.png
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Empowering Consensual Exploration
+purpose:
+  - type: external
+    label: Take consent survey
+    url: 'https://www.surveymonkey.com/r/SQ8ZKZ3'
+  - type: internal
+    label: Gain early access
+    item: 91a21149-042a-4efd-b57d-51e826f8b7f5
+github: true
