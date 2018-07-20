@@ -9,6 +9,9 @@ analytics:
   facebook: '200820943878064'
   google: UA-111702110-2
   twitter: ''
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#25064D'
@@ -28,11 +31,13 @@ purpose:
     label: Gain early access
     item: 91a21149-042a-4efd-b57d-51e826f8b7f5
 title: NoGrey
-description: Empowering Consensual Exploration
+description: Prepare for play
 author:
   name: Elucidare Digital
   url: 'http://elucidare.digital'
   email: operations@elucidare.digital
+content_rating:
+  adult: false
 navigation:
   - name: Pre-Scene Survey
     id: 4cbc3056-911b-4e83-a694-0fbf55e7dd44
