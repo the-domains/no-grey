@@ -27,6 +27,9 @@ purpose:
   - type: internal
     label: Gain early access
     item: 91a21149-042a-4efd-b57d-51e826f8b7f5
+  - type: external
+    label: 'Pre-Scene Survey '
+    url: 'https://www.surveymonkey.com/r/SQ8ZKZ3'
 title: NoGrey
 description: Prepare for play
 author:
