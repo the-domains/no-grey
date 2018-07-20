@@ -1,7 +1,7 @@
 ---
 title: Help Us Make the Right Choices
-datePublished: '2018-07-20T02:25:02.894Z'
-dateModified: '2018-07-20T02:24:44.850Z'
+datePublished: '2018-07-20T02:26:45.627Z'
+dateModified: '2018-07-20T02:26:40.453Z'
 publisher: {}
 author: []
 inFeed: true
@@ -25,7 +25,7 @@ Have you ever experienced difficulty negotiating a play scene?
 If you have any insights on how scene negotiation can be improved, we'd love to hear from you!
 
 Please take a moment to step through our survey investigating informed consent and responsible play. This survey is helping gather high level information about habits and trends surrounding pre-scene negotiations.
-[Take our consent survey][0]
+[Take our Pre-Scene survey][0]
 
 Your help with understanding the nature of negotiation habits around complex scenes will be greatly appreciated.
 
