@@ -24,9 +24,6 @@ color:
   saturation: 0.04405689215951479
   rhythmicContrast: 0.6992328937728842
 purpose:
-  - type: external
-    label: Take consent survey
-    url: 'https://www.surveymonkey.com/r/SQ8ZKZ3'
   - type: internal
     label: Gain early access
     item: 91a21149-042a-4efd-b57d-51e826f8b7f5
