@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: platform-redirect
-dateModified: '2018-09-13T13:48:24.126Z'
-datePublished: '2018-09-13T13:48:25.129Z'
+dateModified: '2018-09-13T13:50:31.930Z'
+datePublished: '2018-09-13T13:50:32.725Z'
 title: Download our Beta Version
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-09-13T13:01:54.345Z'
 url: platform-redirect/index.html
-_type: Article
+_type: MediaObject
 
 ---
 platform-redirect
