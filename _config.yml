@@ -35,9 +35,6 @@ navigation:
   - name: 'Investors '
     url: 'http://elucidare.digital/investment-opportunities'
     type: external
-  - name: Download
-    id: caa762bb-82fd-455c-8cba-b03bc679d7cf
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/76f1b076-5c0f-4123-b00a-b347d366207f.ico
 title: NoGrey
