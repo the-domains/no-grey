@@ -1,17 +1,6 @@
-name: NoGrey
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/76f1b076-5c0f-4123-b00a-b347d366207f.ico
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/683150b5-fdf8-41d9-b6e5-339634ade555.png
-layout_spectrum: 0.7380146417298382
 typography_spectrum: 0.09054011399175345
-analytics:
-  facebook: '200820943878064'
-  google: UA-111702110-2
-  twitter: ''
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#25064D'
@@ -23,21 +12,22 @@ color:
   lightness: 0.17511751110241336
   saturation: 0.04405689215951479
   rhythmicContrast: 0.6992328937728842
-purpose:
-  - type: internal
-    label: Gain early access
-    item: 91a21149-042a-4efd-b57d-51e826f8b7f5
-  - type: external
-    label: 'Pre-Scene Survey '
-    url: 'https://www.surveymonkey.com/r/SQ8ZKZ3'
-title: NoGrey
-description: Prepare for play
+github: true
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.7380146417298382
+analytics:
+  facebook: '200820943878064'
+  google: UA-111702110-2
+  twitter: ''
 author:
   name: Elucidare Digital
   url: 'http://elucidare.digital'
   email: operations@elucidare.digital
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/683150b5-fdf8-41d9-b6e5-339634ade555.png
+name: NoGrey
 navigation:
   - name: Pre-Scene Survey
     id: 4cbc3056-911b-4e83-a694-0fbf55e7dd44
@@ -45,6 +35,12 @@ navigation:
   - name: 'Investors '
     url: 'http://elucidare.digital/investment-opportunities'
     type: external
+  - name: Download
+    id: caa762bb-82fd-455c-8cba-b03bc679d7cf
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/76f1b076-5c0f-4123-b00a-b347d366207f.ico
+title: NoGrey
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -67,4 +63,11 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
+description: Prepare for play
+purpose:
+  - type: internal
+    label: Gain early access
+    item: 91a21149-042a-4efd-b57d-51e826f8b7f5
+  - type: external
+    label: 'Pre-Scene Survey '
+    url: 'https://www.surveymonkey.com/r/SQ8ZKZ3'
