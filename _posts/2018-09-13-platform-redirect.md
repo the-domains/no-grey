@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: platform-redirect
-dateModified: '2018-09-13T13:09:16.823Z'
-datePublished: '2018-09-13T13:09:18.435Z'
-title: ''
+dateModified: '2018-09-13T13:48:24.126Z'
+datePublished: '2018-09-13T13:48:25.129Z'
+title: Download our Beta Version
 author: []
 publisher: {}
 via: {}
@@ -16,6 +16,17 @@ _type: Article
 
 ---
 platform-redirect
+
+# Download our Beta Version
+
+## Android
+
+Simply click on the Android Button below to save to your mobile.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5413635d-0acc-4c30-8f74-816cb5292d67.png)
+
+Instruction on how to set up sideloading (APK's not issued from the Playstore) can be found below.
+
+## iOS
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18657042-1960-429a-97f7-a50aa3492290.png)
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzSVTIKEpNs1XKKCkpKLbS108pyixL1UvPz0_PSdVLzs_VL022T60oyC8qsU3JL8_LyU9MUctMsTV0jUxLNs4w8yx2yzOqrPTRdSzOdquqSg5IC8nR9U129FWys8nMTVcoTi6yVQKy9RPtAPvRJIk" height="244" style=""></iframe>
