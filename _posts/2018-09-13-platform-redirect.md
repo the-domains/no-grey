@@ -1,18 +1,18 @@
 ---
 inFeed: true
 description: platform-redirect
-dateModified: '2018-09-13T13:02:22.537Z'
-datePublished: '2018-09-13T13:02:23.689Z'
+dateModified: '2018-09-13T13:09:16.823Z'
+datePublished: '2018-09-13T13:09:18.435Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://drive.google.com/uc?export=download&id=1EYfc3h6IsFn2yyL-AskFzzcPfTl-McAM
 sourcePath: _posts/2018-09-13-platform-redirect.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-09-13T13:01:54.345Z'
-_type: MediaObject
+url: platform-redirect/index.html
+_type: Article
 
 ---
 platform-redirect
